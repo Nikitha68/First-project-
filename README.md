@@ -1,2 +1,2 @@
 # First project
-about the project
+about my project
